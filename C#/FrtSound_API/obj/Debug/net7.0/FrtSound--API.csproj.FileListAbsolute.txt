@@ -1,0 +1,14 @@
+C:\Davi\Estudos\C#\FrtSound--API\bin\Debug\net7.0\FrtSound--API.exe
+C:\Davi\Estudos\C#\FrtSound--API\bin\Debug\net7.0\FrtSound--API.deps.json
+C:\Davi\Estudos\C#\FrtSound--API\bin\Debug\net7.0\FrtSound--API.runtimeconfig.json
+C:\Davi\Estudos\C#\FrtSound--API\bin\Debug\net7.0\FrtSound--API.dll
+C:\Davi\Estudos\C#\FrtSound--API\bin\Debug\net7.0\FrtSound--API.pdb
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\FrtSound--API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\FrtSound--API.AssemblyInfoInputs.cache
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\FrtSound--API.AssemblyInfo.cs
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\FrtSound--API.csproj.CoreCompileInputs.cache
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\FrtSound--API.dll
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\refint\FrtSound--API.dll
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\FrtSound--API.pdb
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\FrtSound--API.genruntimeconfig.cache
+C:\Davi\Estudos\C#\FrtSound--API\obj\Debug\net7.0\ref\FrtSound--API.dll
